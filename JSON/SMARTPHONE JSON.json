@@ -1,0 +1,40 @@
+{
+    "ogetto": "smartphone",
+    "colore": "nero",
+    "memoria": 126,
+    "memoria_ram": 12,
+    "sistema_operativo": "Ios",
+    "data_di_uscita": 2023,
+    "app_social": {
+        "instagram": {
+            "profilo": "nome",
+            "immagine_profilo_insta": "https://www.google.com/imgres?q=ronaldo&imgurl=https%3A%2F%2Fimg.a.transfermarkt.technology%2Fportrait%2Fbig%2F8198-1694609670.jpg%3Flm%3D1&imgrefurl=https%3A%2F%2Fwww.transfermarkt.it%2Fcristiano-ronaldo%2Fprofil%2Fspieler%2F8198&docid=JcMlR38oPh5AsM&tbnid=n4eZgSqGrVGA0M&vet=12ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA..i&w=300&h=390&hcb=2&itg=1&ved=2ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA"
+        },
+        "whatsapp": "numero",
+        "facebook": {
+            "profilo": "nome",
+            "immagine_profilo_facebook":"https://www.google.com/imgres?q=ronaldo&imgurl=https%3A%2F%2Fimg.a.transfermarkt.technology%2Fportrait%2Fbig%2F8198-1694609670.jpg%3Flm%3D1&imgrefurl=https%3A%2F%2Fwww.transfermarkt.it%2Fcristiano-ronaldo%2Fprofil%2Fspieler%2F8198&docid=JcMlR38oPh5AsM&tbnid=n4eZgSqGrVGA0M&vet=12ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA..i&w=300&h=390&hcb=2&itg=1&ved=2ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA",
+       
+        "tiktok": {
+            "profilo": "nome",
+            "immagine_profilo_tiktok":"https://www.google.com/imgres?q=ronaldo&imgurl=https%3A%2F%2Fimg.a.transfermarkt.technology%2Fportrait%2Fbig%2F8198-1694609670.jpg%3Flm%3D1&imgrefurl=https%3A%2F%2Fwww.transfermarkt.it%2Fcristiano-ronaldo%2Fprofil%2Fspieler%2F8198&docid=JcMlR38oPh5AsM&tbnid=n4eZgSqGrVGA0M&vet=12ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA..i&w=300&h=390&hcb=2&itg=1&ved=2ahUKEwju6baB4s2EAxVNX_EDHfUvCdEQM3oECGIQAA"
+    }},
+    "app_utilità": [
+        "note",
+        "diario",
+        "calendario",
+        "orologio",
+        "google"
+    ],
+    "dimensioni": {
+        "altezza": 150,
+        "larghezza": 70,
+        "spessore": 8
+    },
+    "prezzo": 699,
+    "assicurazione": {
+        "durata": "2anni",
+        "copertura": "internazionale"
+    },
+    "disponibilità_prodotto": true
+}}
