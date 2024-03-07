@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
-    <title>PokeMose</title>
-
+  <title>PokéAPI</title>
 </head>
-
 <body>
-    <!----Corpo della pagina --->
-    <title>PokeMose</title>
-    <div id="contenitore">
-        <h1><span style="font-size: large; font-weight: 100; font-family: 'Times New Roman', Times, serif;color: darkorange;font-stretch: semi-expanded;">Benvenuti nel sito PokeMose</span></h1>
 
-    </div>
-   
-    <script src="./Sito_Pokemon.js"></script>
+<h2>Ricerca Pokémon</h2>
+<label for="pokemonId">ID del Pokémon:</label>
+<input type="text" id="pokemonId" placeholder="Inserisci l'ID del Pokémon">
+<button onclick="getPokemonData()">Cerca</button>
+
+<div id="pokemonInfo">
+  <h3 id="pokemonName"></h3>
+  <img id="pokemonImage" src="" alt="Immagine del Pokémon">
+  <p id="pokemonTypes"></p>
+  <p id="pokemonAbilities"></p>
+</div>
+
+<script src="Sito_Pokemon.js"></script>
 </body>
-
 </html>
